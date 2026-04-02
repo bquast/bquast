@@ -1,6 +1,6 @@
 # Bastiaan Quast
 
-Code 💻 on here on Github; datasets 📊 and models (weights) 📈 on [Hugging Face 🤗](https://huggingface.co/bquast)
+Code 💻 here on Github; datasets 📊 and models (weights) 📈 on [Hugging Face 🤗](https://huggingface.co/bquast)
 
 ## Current projects
 - [mlx-profiler](https://github.com/bquast/mlx-profiler) - Operation-level profiler for Apple Silicon / MLX. The missing torch.profiler equivalent for the MLX ecosystem.
