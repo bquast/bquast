@@ -12,3 +12,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 
 ## Long-term projects
 - [rrn](https://github.com/bquast/rnn) - (2013) R-native implementations of recurrent neural network algorithms: vanilla RNN, LSTM, GRU, etc. > 100k download from CRAN
+
+## iOS / MacOS store apps
+- [SwissWallet](https://apps.apple.com/ch/app/swisswallet/id6737986330?l=en-GB) (iOS + MacOS): swift implementations of barcode, QR code, MicroQR, etc. rendering
+- [Big Files Tree Map](https://apps.apple.com/ch/app/big-files-tree-map/id6743767388?l=en-GB&mt=12) (MacOS): Square multi-level pie chart to vizualize large files on disk, for saving space.
