@@ -11,7 +11,8 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - `eurotrip` model - a SFT version of `nanochat-d34`, which provides directions
 
 ## Long-term projects
-- [rrn](https://github.com/bquast/rnn) - (2013) R-native implementations of recurrent neural network algorithms: vanilla RNN, LSTM, GRU, etc. > 100k download from CRAN
+- [rrn](https://github.com/bquast/rnn) - (2013) native R implementations of recurrent neural network algorithms: vanilla RNN, LSTM, GRU, etc. > 100k download from CRAN
+- [transformer](https://github.com/bquast/transformer) - (2020) native R implementation of the transformer algorithm, available on CRAN
 
 ## iOS / MacOS store apps
 - [SwissWallet](https://apps.apple.com/ch/app/swisswallet/id6737986330?l=en-GB) (iOS + MacOS): swift implementations of barcode, QR code, MicroQR, etc. rendering
