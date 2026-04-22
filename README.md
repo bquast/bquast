@@ -15,4 +15,5 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 
 ## iOS / MacOS store apps
 - [SwissWallet](https://apps.apple.com/ch/app/swisswallet/id6737986330?l=en-GB) (iOS + MacOS): swift implementations of barcode, QR code, MicroQR, etc. rendering
-- [Big Files Tree Map](https://apps.apple.com/ch/app/big-files-tree-map/id6743767388?l=en-GB&mt=12) (MacOS): Square multi-level pie chart to vizualize large files on disk, for saving space.
+- [Big Files Tree Map](https://apps.apple.com/ch/app/big-files-tree-map/id6743767388?l=en-GB&mt=12) (MacOS): Square multi-level pie chart to vizualize large files on disk, for saving space
+- [LiteText](https://apps.apple.com/ch/app/litetext/id6745022159?l=en-GB&mt=12) (MacOS): ObjectiveC no-dependencies flat text editor in Y2K style, include line and column indicators
