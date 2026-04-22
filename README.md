@@ -9,3 +9,6 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [autoresearch-mesa-prompt](https://github.com/bquast/autoresearch-mesa-prompts) - using the autoresearch paradigm to probe ABM models using the [mesa](https://github.com/mesa) framework, using only prompts in Claude web.
 - `eurotrip` dataset - a `jsonl` dataset of conversations that are walking directions in historic city centers, e.g. for SFT use with nanochat-d34
 - `eurotrip` model - a SFT version of `nanochat-d34`, which provides directions
+
+## Long-term projects
+- [rrn](https://github.com/bquast/rnn) - (2013) R-native implementations of recurrent neural network algorithms: vanilla RNN, LSTM, GRU, etc. > 100k download from CRAN
