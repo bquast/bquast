@@ -15,7 +15,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [transformer](https://github.com/bquast/transformer) - (2020-) native R implementation of the transformer algorithm, available on CRAN
 - [HomomorphicEncryption](https://github.com/bquast/HomomorphicEncryption) - (2021-) perform computations, functions, such as AI models on encrypted data, native R implementations of the major FHE schema: BFV, BGV, CKKS
 
-## iOS / MacOS store apps
+## iOS / MacOS App Store
 - [SwissWallet](https://apps.apple.com/ch/app/swisswallet/id6737986330?l=en-GB) (iOS + MacOS): swift implementations of barcode, QR code, MicroQR, etc. rendering
 - [Big Files Tree Map](https://apps.apple.com/ch/app/big-files-tree-map/id6743767388?l=en-GB&mt=12) (MacOS): Square multi-level pie chart to vizualize large files on disk, for saving space
 - [LiteText](https://apps.apple.com/ch/app/litetext/id6745022159?l=en-GB&mt=12) (MacOS): ObjectiveC no-dependencies flat text editor in Y2K style, include line and column indicators
