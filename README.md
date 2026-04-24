@@ -23,4 +23,4 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [LiteText](https://apps.apple.com/ch/app/litetext/id6745022159?l=en-GB&mt=12) (MacOS): ObjectiveC no-dependencies flat text editor in Y2K style, include line and column indicators
 - [KneeBoard](https://apps.apple.com/ch/app/kneeboard-notes/id6745168130?l=en-GB&mt=12) (MacOS): menubar quick text widget, always at hand for taking notes or copying text, just like a pilot's kneeboard
 
-[Resume in PDF](https://github.com/bquast/Curriculum-Vitae/)
+[full resume online / PDF](https://github.com/bquast/resume/)
