@@ -6,8 +6,8 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 
 ## Current projects
 - [mlx-profiler](https://github.com/bquast/mlx-profiler) - operation-level profiler for Apple Silicon / MLX, torch.profiler equivalent for  MLX
-- [py-arena.com](https://py-arena.com) - side-by-side code LLM battle arena for vanilla Python challenges, executes locally using pyodide
-- [code-prompt-ideas](https://github.com/bquast/code-prompt-ideas) - side-by-side code LLM battle arena focused on vanilla JavaScript, inspiring users, and generating a new dataset for LLM coding.
+- [py-arena.com](https://py-arena.com) ([repo](https://github.com/bquast/py-arena)) - side-by-side code LLM battle arena for vanilla Python challenges, executes locally using pyodide
+- [CodePromptIdeas](https://codepromptideas.com) ([repo](https://github.com/bquast/js-arena)) - side-by-side code LLM battle arena focused on vanilla JavaScript, inspiring users, and generating a new dataset for LLM coding.
 - [simple-agent-harness](https://github.com/bquast/simple-agent-harness) - bare-bones AI agent harnass (like OpenClaw 🦞), using a local LLM via Ollama (default `gemma4:e2b`)
 - [autoresearch-mesa](https://github.com/bquast/autoresearch-mesa) - adaptation of Karpathy's autoresearch, in turn an OpenClaw 🦞 style AI agent (agent harness), to explore hyperparameters. Uses the python ABM framework [mesa](https://github.com/mesa).
 - [autoresearch-mesa-prompt](https://github.com/bquast/autoresearch-mesa-prompts) - using the autoresearch paradigm to probe ABM models using the [mesa](https://github.com/mesa) framework, using only prompts in Claude web.
