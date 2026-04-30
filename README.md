@@ -15,7 +15,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - `eurotrip` model - a SFT version of `nanochat-d34`, which provides directions
 
 ## WIP
-- [AgentsArena.live](https:agentsarena.live) - side-by-side benchmark for agentic tasks, compare performance of leading models operations (as opposed to text/code generation), e.g. writing and patching files, executing commands, etc. Uses CloudFlare agent enviroments as sandboxes to run the models in.
+- [AgentsArena.live](https://agentsarena.live) - side-by-side benchmark for agentic tasks, compare performance of leading models operations (as opposed to text/code generation), e.g. writing and patching files, executing commands, etc. Uses CloudFlare agent enviroments as sandboxes to run the models in.
 
 ## Long-term projects
 - [rrn](https://github.com/bquast/rnn) - (2013-) native R implementations of recurrent neural network algorithms: vanilla RNN, LSTM, GRU, etc, >100k downloads from CRAN
