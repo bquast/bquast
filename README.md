@@ -21,6 +21,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [rrn](https://github.com/bquast/rnn) - (2013-) native R implementations of recurrent neural network algorithms: vanilla RNN, LSTM, GRU, etc, >100k downloads from CRAN
 - [transformer](https://github.com/bquast/transformer) - (2020-) native R implementation of the transformer algorithm, available on CRAN
 - [HomomorphicEncryption](https://github.com/bquast/HomomorphicEncryption) - (2021-) perform computations, functions, such as AI models on encrypted data, native R implementations of the major FHE schema: BFV, BGV, CKKS
+- [HEtools](https://github.com/bquast/HEtools) - python (and [Julia](https://github.com/bquast/HEtools.jl)) implementation of homomorphic encryption primitives
 
 ## iOS / MacOS App Store
 - [SwissWallet](https://apps.apple.com/ch/app/swisswallet/id6737986330?l=en-GB) (iOS + MacOS): swift implementations of barcode, QR code, MicroQR, etc. rendering
