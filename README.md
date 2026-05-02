@@ -11,16 +11,16 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [simple-agent-harness](https://github.com/bquast/simple-agent-harness) - bare-bones AI agent harnass (like OpenClaw 🦞), using a local LLM via Ollama (default `gemma4:e2b`)
 - [autoresearch-mesa](https://github.com/bquast/autoresearch-mesa) - adaptation of Karpathy's autoresearch, in turn an OpenClaw 🦞 style AI agent (agent harness), to explore hyperparameters. Uses the python ABM framework [mesa](https://github.com/mesa). Version using only prompts: [autoresearch-mesa-prompt](https://github.com/bquast/autoresearch-mesa-prompts).
 - [homomorphic-encryption](https://github.com/bquast/homomorphic-encryption) - from-scratch javascript implementations and demonstrations of homomorphic encryption in the major schema: BFV, BGV and CKKS (including complex-numbe encoder). Also a demonstration of the partially homomorphic properties of RSA encryption. ([Grok explanation of HE](https://grok.com/share/c2hhcmQtMg_776a4ad3-9199-4128-a39f-b9891d03ff64))
-- [error-correction-codes](https://github.com/bquast/error-correction-codes) - grokking algorithms for major error-correction algos: Reed-Solomon, Hamming, BCH
-- [adapt-ui](https://adaptui.pages.dev) ([repo](https://github.com/bquast/adaptui)) - adapt the UI of this LLM interface directly by prompting the LLM what you want the interface to look like. WIP: work with design.md files
 
 
 ## WIP
 - [AgentsArena.live](https://agentsarena.live) ([repo](https://github.com/bquast/agent-arena)) - side-by-side benchmark for agentic tasks, compare performance of leading models operations (as opposed to text/code generation), e.g. writing and patching files, executing commands, etc. Uses CloudFlare agent enviroments as sandboxes to run the models in.
 - [homomorphic-encryption.go](https://github.com/bquast/homomorphic-encryption.go) - from-scratch implementations of homomorphic encryption algorithms in Go, compiled to Web Assembly (WASM) using Github Actions, an end-to-end verifiable pipeline
 - [Common Vulnerabilities Exposures dataset](https://huggingface.co/datasets/bquast/Common-Vulnerabilities-Exposures-1995-2025/tree/main) - cybersecurity training dataset [CVE] 1995-2025
+- [adapt-ui](https://adaptui.pages.dev) ([repo](https://github.com/bquast/adaptui)) - adapt the UI of this LLM interface directly by prompting the LLM what you want the interface to look like. WIP: work with design.md files
 - `eurotrip` dataset - a `jsonl` dataset of conversations that are walking directions in historic city centers, e.g. for SFT use with nanochat-d34
 - `eurotrip` model - a SFT version of `nanochat-d34`, which provides directions
+
 
 ## Long-term projects
 - [rrn](https://github.com/bquast/rnn) - (2013-) native R implementations of recurrent neural network algorithms: vanilla RNN, LSTM, GRU, etc, >100k downloads from CRAN
@@ -28,6 +28,8 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [HomomorphicEncryption](https://github.com/bquast/HomomorphicEncryption) - (2021-) perform computations, functions, such as AI models on encrypted data, native R implementations of the major FHE schema: BFV, BGV, CKKS
 - [HEtools](https://github.com/bquast/HEtools) - (2021-) python (and [Julia](https://github.com/bquast/HEtools.jl)) implementation of homomorphic encryption primitives
 - [error-correction-codes](https://github.com/bquast/error-correction-codes) - (2023-) from-scratch implementations of major error-correction codes schema: Reed-Solomon, Hamming, BCH
+- [README.site](https://readme.site) - SSG designed to automatically turn git repo markdown files into a website, e.g. hosted on CloudFlare Pages, themes available in the [store](https://store.readme.site)
+
 
 ## iOS / MacOS App Store
 - [SwissWallet](https://apps.apple.com/ch/app/swisswallet/id6737986330?l=en-GB) (iOS + MacOS): swift implementations of barcode, QR code, MicroQR, etc. rendering
