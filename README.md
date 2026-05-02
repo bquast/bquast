@@ -19,7 +19,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [AgentsArena.live](https://agentsarena.live) ([repo](https://github.com/bquast/agent-arena)) - side-by-side benchmark for agentic tasks, compare performance of leading models operations (as opposed to text/code generation), e.g. writing and patching files, executing commands, etc. Uses CloudFlare agent enviroments as sandboxes to run the models in.
 - [homomorphic-encryption.go](https://github.com/bquast/homomorphic-encryption.go) - from-scratch implementations of homomorphic encryption algorithms in Go, compiled to Web Assembly (WASM) using Github Actions, an end-to-end verifiable pipeline
 - [Common Vulnerabilities Exposures dataset](https://huggingface.co/datasets/bquast/Common-Vulnerabilities-Exposures-1995-2025/tree/main) - cybersecurity training dataset [CVE] 1995-2025
-- - `eurotrip` dataset - a `jsonl` dataset of conversations that are walking directions in historic city centers, e.g. for SFT use with nanochat-d34
+- `eurotrip` dataset - a `jsonl` dataset of conversations that are walking directions in historic city centers, e.g. for SFT use with nanochat-d34
 - `eurotrip` model - a SFT version of `nanochat-d34`, which provides directions
 
 ## Long-term projects
