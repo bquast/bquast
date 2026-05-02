@@ -12,6 +12,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [autoresearch-mesa](https://github.com/bquast/autoresearch-mesa) - adaptation of Karpathy's autoresearch, in turn an OpenClaw 🦞 style AI agent (agent harness), to explore hyperparameters. Uses the python ABM framework [mesa](https://github.com/mesa). Version using only prompts: [autoresearch-mesa-prompt](https://github.com/bquast/autoresearch-mesa-prompts).
 - [homomorphic-encryption](https://github.com/bquast/homomorphic-encryption) - from-scratch javascript implementations and demonstrations of homomorphic encryption in the major schema: BFV, BGV and CKKS (including complex-numbe encoder). Also a demonstration of the partially homomorphic properties of RSA encryption. ([Grok explanation of HE](https://grok.com/share/c2hhcmQtMg_776a4ad3-9199-4128-a39f-b9891d03ff64))
 - [error-correction-codes](https://github.com/bquast/error-correction-codes) - grokking algorithms for major error-correction algos: Reed-Solomon, Hamming, BCH
+- [adapt-ui](https://adaptui.pages.dev) ([repo](https://github.com/bquast/adaptui)) - adapt the UI of this LLM interface directly by prompting the LLM what you want the interface to look like. WIP: work with design.md files
 
 
 ## WIP
