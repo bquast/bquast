@@ -27,7 +27,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [transformer](https://github.com/bquast/transformer) - (2020-) native R implementation of the transformer algorithm, available on CRAN
 - [HomomorphicEncryption](https://github.com/bquast/HomomorphicEncryption) - (2021-) perform computations, functions, such as AI models on encrypted data, native R implementations of the major FHE schema: BFV, BGV, CKKS
 - [HEtools](https://github.com/bquast/HEtools) - (2021-) python (and [Julia](https://github.com/bquast/HEtools.jl)) implementation of homomorphic encryption primitives
-- [error-correction-codes](https://github.com/bquast/error-correction-codes) - (2023-) from-scratch implementations of major error-correction codes schema: Reed-Solomon, Hamming, BCH
+- [error-correcting-codes](https://github.com/bquast/error-correcting-codes) - (2023-) from-scratch implementations of major error-correcting codes schema: Reed-Solomon, Hamming, BCH
 - [README.site](https://readme.site) - SSG designed to automatically turn git repo markdown files into a website, e.g. hosted on CloudFlare Pages, themes available in the [store](https://store.readme.site)
 
 
