@@ -1,6 +1,6 @@
 # Bastiaan Quast
 
-Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Hugging Face 🤗](https://huggingface.co/bquast)
+Code 💻 here on Github 🐙; datasets 📊 and models 📈 on [Hugging Face 🤗](https://huggingface.co/bquast)
 
 [Gists 📄](https://gist.github.com/bquast) are even more elegant than repos, I add instructions in the comments below the code file.
 
