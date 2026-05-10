@@ -5,6 +5,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models 📈 on [Hugging Face �
 [Gists 📄](https://gist.github.com/bquast) are even more elegant than repos, I add instructions in the comments below the code file.
 
 ## Current projects
+- [llama.go](https://bquast.github.io/llma.ago) ([repo](https://github.com/bquast/llama.go)) - Go implementation of Llama inference engine, compile to wasm, runs locally in the browser
 - [mlx-profiler](https://github.com/bquast/mlx-profiler) - operation-level profiler for Apple Silicon / MLX, torch.profiler equivalent for  MLX
 - [py-arena.com](https://py-arena.com) ([repo](https://github.com/bquast/py-arena)) - side-by-side code LLM battle arena for vanilla Python challenges, executes locally using pyodide
 - [CodePromptIdeas.com](https://codepromptideas.com) ([repo](https://github.com/bquast/js-arena)) - side-by-side code LLM battle arena focused on vanilla JavaScript, inspiring users, and generating a new dataset for LLM coding.
@@ -15,7 +16,6 @@ Code 💻 here on Github 🐙; datasets 📊 and models 📈 on [Hugging Face �
 
 ## WIP
 - [AgentsArena.live](https://agentsarena.live) ([repo](https://github.com/bquast/agent-arena)) - side-by-side benchmark for agentic tasks, compare performance of leading models operations (as opposed to text/code generation), e.g. writing and patching files, executing commands, etc. Uses CloudFlare agent enviroments as sandboxes to run the models in.
-- [llm.go](https://bquast.github.io/llm.go) ([repo](https://github.com/bquast/llm.go)) - Go implementation of Llama inference engine, compile to wasm, runs locally in the browser
 - [homomorphic-encryption.go](https://github.com/bquast/homomorphic-encryption.go) - from-scratch implementations of homomorphic encryption algorithms in Go, compiled to Web Assembly (WASM) using Github Actions, an end-to-end verifiable pipeline
 - [Common Vulnerabilities Exposures dataset](https://huggingface.co/datasets/bquast/Common-Vulnerabilities-Exposures-1995-2025/tree/main) - cybersecurity training dataset [CVE] 1995-2025
 - [adapt-ui](https://adaptui.pages.dev) ([repo](https://github.com/bquast/adaptui)) - adapt the UI of this LLM interface directly by prompting the LLM what you want the interface to look like. WIP: work with design.md files
