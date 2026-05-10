@@ -15,6 +15,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 
 ## WIP
 - [AgentsArena.live](https://agentsarena.live) ([repo](https://github.com/bquast/agent-arena)) - side-by-side benchmark for agentic tasks, compare performance of leading models operations (as opposed to text/code generation), e.g. writing and patching files, executing commands, etc. Uses CloudFlare agent enviroments as sandboxes to run the models in.
+- [https://bquast.github.io/llm.go](llm.go) ([https://github.com/bquast/llm.go](repo)) - Go implementation of Llama inference engine, compile to wasm, runs locally in the browser
 - [homomorphic-encryption.go](https://github.com/bquast/homomorphic-encryption.go) - from-scratch implementations of homomorphic encryption algorithms in Go, compiled to Web Assembly (WASM) using Github Actions, an end-to-end verifiable pipeline
 - [Common Vulnerabilities Exposures dataset](https://huggingface.co/datasets/bquast/Common-Vulnerabilities-Exposures-1995-2025/tree/main) - cybersecurity training dataset [CVE] 1995-2025
 - [adapt-ui](https://adaptui.pages.dev) ([repo](https://github.com/bquast/adaptui)) - adapt the UI of this LLM interface directly by prompting the LLM what you want the interface to look like. WIP: work with design.md files
