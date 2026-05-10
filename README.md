@@ -8,8 +8,8 @@ Code 💻 here on Github 🐙; datasets 📊 and models (weights) 📈 on [Huggi
 - [mlx-profiler](https://github.com/bquast/mlx-profiler) - operation-level profiler for Apple Silicon / MLX, torch.profiler equivalent for  MLX
 - [py-arena.com](https://py-arena.com) ([repo](https://github.com/bquast/py-arena)) - side-by-side code LLM battle arena for vanilla Python challenges, executes locally using pyodide
 - [CodePromptIdeas.com](https://codepromptideas.com) ([repo](https://github.com/bquast/js-arena)) - side-by-side code LLM battle arena focused on vanilla JavaScript, inspiring users, and generating a new dataset for LLM coding.
-- [simple-agent-harness](https://github.com/bquast/simple-agent-harness) - bare-bones AI agent harnass (like OpenClaw 🦞), using a local LLM via Ollama (default `gemma4:e2b`)
-- [autoresearch-mesa](https://github.com/bquast/autoresearch-mesa) - adaptation of Karpathy's autoresearch, in turn an OpenClaw 🦞 style AI agent (agent harness), to explore hyperparameters. Uses the python ABM framework [mesa](https://github.com/mesa). Version using only prompts: [autoresearch-mesa-prompt](https://github.com/bquast/autoresearch-mesa-prompts).
+- [simple-agent-harness](https://github.com/bquast/simple-agent-harness) - bare-bones AI agent harnass, using a local LLM via Ollama (default `gemma4:e2b`)
+- [autoresearch-mesa](https://github.com/bquast/autoresearch-mesa) - adaptation of Karpathy's autoresearch, an agent harness that performs a hyperparameter  sweep. Uses the python ABM framework [mesa](https://github.com/mesa). Version using only prompts: [autoresearch-mesa-prompt](https://github.com/bquast/autoresearch-mesa-prompts).
 - [homomorphic-encryption](https://github.com/bquast/homomorphic-encryption) - from-scratch javascript implementations and demonstrations of homomorphic encryption in the major schema: BFV, BGV and CKKS (including complex-numbe encoder). Also a demonstration of the partially homomorphic properties of RSA encryption. ([Grok explanation of HE](https://grok.com/share/c2hhcmQtMg_776a4ad3-9199-4128-a39f-b9891d03ff64))
 
 
