@@ -5,7 +5,7 @@ Code 💻 here on Github 🐙; datasets 📊 and models 📈 on [Hugging Face �
 [Gists 📄](https://gist.github.com/bquast) are even more elegant than repos, I add instructions in the comments below the code file.
 
 ## Current projects
-- [llama.go](https://bquast.github.io/llama.ago) ([repo](https://github.com/bquast/llama.go)) - Go implementation of Llama inference engine, compile to wasm, runs locally in the browser
+- [llama.go](https://bquast.github.io/llama.go) ([repo](https://github.com/bquast/llama.go)) - Go implementation of Llama inference engine, compile to wasm, runs locally in the browser
 - [mlx-profiler](https://github.com/bquast/mlx-profiler) - operation-level profiler for Apple Silicon / MLX, torch.profiler equivalent for  MLX
 - [py-arena.com](https://py-arena.com) ([repo](https://github.com/bquast/py-arena)) - side-by-side code LLM battle arena for vanilla Python challenges, executes locally using pyodide
 - [CodePromptIdeas.com](https://codepromptideas.com) ([repo](https://github.com/bquast/js-arena)) - side-by-side code LLM battle arena focused on vanilla JavaScript, inspiring users, and generating a new dataset for LLM coding.
